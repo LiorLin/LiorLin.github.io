@@ -27,5 +27,5 @@ _Laboratory of Dr. Ben Maoz, Department of Bio-Medical Engineering, Tel-Aviv uni
 ### Rotation Projects :
 <img src="Zebra_fish_Image.jpg" align="left" width="60" length="60" style="border-radius: 50%; margin-right: 10px;">
 
-**Effects of zygotic and maternally contributed RE-1 silencing transcription factoron stress coping in Zebrafish larvae** <br>
-_Laboratory of Prof.Gil Levkowitz, Department of Molecular Cell Biology, Weizmann Institue of Science._
+**Effects of zygotic and maternally contributed RE-1 silencing transcription factor on stress coping in Zebrafish larvae** <br>
+_Laboratory of Prof.Gil Levkowitz, Department of Molecular Cell Biology, Weizmann Institue of Science._ [Presentation Slides](https://github.com/LiorLin/LiorLin.github.io/blob/main/Rotations%20seminar%20presentation%20-%20new.pdf)
