@@ -10,6 +10,9 @@ I am doing my research for Thesis at the Hornstein's lab which studies the molec
 ### Academic Background
 I have completed double major B.Sc studies in Biology and Psychology with emphasis on Neuroscience at the Sagol school of Neuroscience in Tel Aviv University.
 
-<img src="Lab_tools_image.jpg" align="left" width="100" length="200" style="border-radius: 50%; margin-right: 10px;">
-
 # Research experience :
+<img src="Mouse_in_Maze.jpg" align="left" width="120" length="200" style="border-radius: 50%; margin-right: 10px;">
+
+### B.Sc Reserach project: Navigation assessment in mice model for the genetic risk factor of Alzheimer's disease. 
+Characterization of ApoeE4 mediated learning and memory phenotypes in a complex maze task.<br>
+_Laboratory of Prof. Pablo Blinder, Department of Neurobiology, Tel aviv university_
