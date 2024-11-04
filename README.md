@@ -21,19 +21,19 @@ _Laboratory of Prof. Pablo Blinder, Department of Neurobiology, Tel-aviv univers
 
 [<img src="SG_image.jpg" align="left" width="70" length="70" style="border-radius: 50%; margin-right: 10px;">](https://github.com/LiorLin/LiorLin.github.io/blob/main/Research%20Project's%20report%20-%20Lior%20Lin.pdf)
 
-**Investigation of RNA granule dynamics in response to chemical stress exposure in-vitro.** <br>
+**Investigation of RNA granule dynamics in response to chemical stress exposure in-vitro.** 
 _Laboratory of Dr. Ben Maoz, Department of Bio-Medical Engineering, Tel-Aviv university._
 
 ### Rotation Projects :
 [<img src="Zebra_fish_Image.jpg" align="left" width="70" length="70" style="border-radius: 50%; margin-right: 10px;">](https://github.com/LiorLin/LiorLin.github.io/blob/main/Rotations%20seminar%20presentation%20-%20new.pdf)
 
-**Effects of zygotic and maternally contributed RE-1 silencing transcription factor on stress coping in Zebrafish larvae** <br>
+**Effects of zygotic and maternally contributed RE-1 silencing transcription factor on stress coping in Zebrafish larvae** 
 _Laboratory of Prof. Gil Levkowitz, Department of Molecular Cell Biology & Molecular Neuroscience, Weizmann Institue of Science._            
 
 [<img src="Drosophila_image.jpg" align="left" width="70" length="70" style="border-radius: 50%; margin-right: 10px;">](https://github.com/LiorLin/LiorLin.github.io/blob/main/Presentation%20schuldiner%20lab.pdf)
 
 **Investigating  mechanisms of DPR12-DIP𝛿 interaction in the Drosophila mushroom body during development** <br>
-_Laboratory of Prof. Oren Schuldiner, Department of Molecular Cell Biology & Molecular Neuroscience, Weizmann Institue of Science._ <br>                   
+_Laboratory of Prof. Oren Schuldiner, Department of Molecular Cell Biology & Molecular Neuroscience, Weizmann Institue of Science._                   
 
 [<img src="Neurons_in_dish_image.jpg" align="left" width="70" length="70" style="border-radius: 50%; margin-right: 10px;">](https://github.com/LiorLin/LiorLin.github.io/blob/main/Hornstein's%20Rotation%20presentation.pdf)
 
