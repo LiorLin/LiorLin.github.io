@@ -21,7 +21,7 @@ _Laboratory of Prof. Pablo Blinder, Department of Neurobiology, Tel-aviv univers
 
 [<img src="SG_image.jpg" align="left" width="70" length="70" style="border-radius: 50%; margin-right: 10px;">](https://github.com/LiorLin/LiorLin.github.io/blob/main/Research%20Project's%20report%20-%20Lior%20Lin.pdf)
 
-**Investigation of RNA granule dynamics in response to chemical stress exposure in-vitro.** 
+**Investigation of RNA granule dynamics in response to chemical stress exposure in-vitro.** <br>
 _Laboratory of Dr. Ben Maoz, Department of Bio-Medical Engineering, Tel-Aviv university._
 
 ### Rotation Projects :
