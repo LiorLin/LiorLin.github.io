@@ -2,7 +2,7 @@
 
 <img src="My_image_screenshot.jpg" align="left" width="200" style="border-radius: 50%; margin-right: 10px;">
 
-### About me :
+### About Me :
 I am a M.Sc student in life sciences at the molecular and cellular neuroscience track at the Weizmann institute of science (WIS).
 
 I am doing my research for Thesis at the Hornstein's lab which studies the molecular mechanisms underlying neurodegeneration, focusing on the devastating amyotrophic lateral sclerosis (ALS) disease. 
@@ -10,8 +10,8 @@ I am doing my research for Thesis at the Hornstein's lab which studies the molec
 ### Academic Background :
 I have completed double major B.Sc studies in Biology and Psychology with emphasis on Neuroscience at the Sagol school of Neuroscience in Tel Aviv University.
 
-# Research experience :
-### B.Sc Research projects :
+# Research experience 
+### B.Sc Research Projects :
 
 <img src="Mouse_in_Maze.jpg" align="left" width="60" length="60" style="border-radius: 50%; margin-right: 10px;">
 
@@ -28,4 +28,18 @@ _Laboratory of Dr. Ben Maoz, Department of Bio-Medical Engineering, Tel-Aviv uni
 <img src="Zebra_fish_Image.jpg" align="left" width="60" length="60" style="border-radius: 50%; margin-right: 10px;">
 
 **Effects of zygotic and maternally contributed RE-1 silencing transcription factor on stress coping in Zebrafish larvae** <br>
-_Laboratory of Prof.Gil Levkowitz, Department of Molecular Cell Biology, Weizmann Institue of Science._ [Presentation Slides](https://github.com/LiorLin/LiorLin.github.io/blob/main/Rotations%20seminar%20presentation%20-%20new.pdf)
+_Laboratory of Prof. Gil Levkowitz, Department of Molecular Cell Biology & Molecular Neuroscience, Weizmann Institue of Science._ [Presentation Slides](https://github.com/LiorLin/LiorLin.github.io/blob/main/Rotations%20seminar%20presentation%20-%20new.pdf)
+
+<img src="Drosophila_image.jpg" align="left" width="60" length="60" style="border-radius: 50%; margin-right: 10px;">
+
+**Investigating  mechanisms of DPR12-DIP𝛿 interaction in the Drosophila mushroom body during development** <br>
+_Laboratory of Prof. Oren Schuldiner, Department of Molecular Cell Biology & Molecular Neuroscience, Weizmann Institue of Science._ [Presentation Slides](https://github.com/LiorLin/LiorLin.github.io/blob/main/Presentation%20schuldiner%20lab.pdf)
+
+<img src="Neurons_in_dish_image.jpg" align="left" width="60" length="60" style="border-radius: 50%; margin-right: 10px;">
+
+**Characterizing the AI-suggested inter-organellar crosstalk between stress granules and mitochondria in human neurons** <br>
+_Laboratory of Prof. Eran Hornstein, Department of Molecular Genetics, Weizmann Institue of Science._ <br>
+[Presentation Slides](https://github.com/LiorLin/LiorLin.github.io/blob/main/Hornstein's%20Rotation%20presentation.pdf)
+
+# Contact 
+lior.lin@weizmann.ac.il | [GitHub Page](https://github.com/LiorLin)
