@@ -32,12 +32,12 @@ _Laboratory of Prof. Gil Levkowitz, Department of Molecular Cell Biology & Molec
 
 [<img src="Drosophila_image.jpg" align="left" width="70" length="70" style="border-radius: 50%; margin-right: 10px;">](https://github.com/LiorLin/LiorLin.github.io/blob/main/Presentation%20schuldiner%20lab.pdf)
 
-**Investigating  mechanisms of DPR12-DIP𝛿 interaction in the Drosophila mushroom body during development** <br>
+**Investigating  mechanisms of DPR12-DIP𝛿 interaction in the Drosophila mushroom body during development** 
 _Laboratory of Prof. Oren Schuldiner, Department of Molecular Cell Biology & Molecular Neuroscience, Weizmann Institue of Science._                   
 
 [<img src="Neurons_in_dish_image.jpg" align="left" width="70" length="70" style="border-radius: 50%; margin-right: 10px;">](https://github.com/LiorLin/LiorLin.github.io/blob/main/Hornstein's%20Rotation%20presentation.pdf)
 
-**Characterizing the AI-suggested inter-organellar crosstalk between stress granules and mitochondria in human neurons** <br>
+**Characterizing the AI-suggested inter-organellar crosstalk between stress granules and mitochondria in human neurons**
 _Laboratory of Prof. Eran Hornstein, Department of Molecular Genetics, Weizmann Institue of Science._ <br>
 
 
