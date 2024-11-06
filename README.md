@@ -37,7 +37,7 @@ _Laboratory of Prof. Oren Schuldiner, Department of Molecular Cell Biology & Mol
 
 [<img src="Neurons_in_dish_image.jpg" align="left" width="70" length="70" style="border-radius: 50%; margin-right: 10px;">](https://github.com/LiorLin/LiorLin.github.io/blob/main/Hornstein's%20Rotation%20presentation.pdf)
 
-**Characterizing the AI-suggested inter-organellar crosstalk between stress granules and mitochondria in human neurons.**
+**Characterizing the AI-suggested inter-organellar crosstalk between stress granules and mitochondria <br> in human neurons.**
 _Laboratory of Prof. Eran Hornstein, Department of Molecular Genetics, Weizmann Institue of Science._ <br>
 
 
