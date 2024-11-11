@@ -41,5 +41,8 @@ _Laboratory of Prof. Oren Schuldiner, Department of Molecular Cell Biology & Mol
 _Laboratory of Prof. Eran Hornstein, Department of Molecular Genetics, Weizmann Institue of Science._ 
 
 
-# Contact 
+# Contact :
 lior.lin@weizmann.ac.il | [GitHub Page](https://github.com/LiorLin)
+
+# Assignments collection :
+Visit my course assignments [repository](https://github.com/LiorLin/Course_Assignments) to see and comment my work. 
